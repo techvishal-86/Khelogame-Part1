@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "KheloGame",
+    "slug": "KheloGame",
+    "privacy": "public",
+    "androidStatusBar": {
+      "backgroundColor": "#109445"
+    },
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1E1616"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.appdevpanda.khelogame",
+      "googleServicesFile": "./google-services.json"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "KheloGame",
+  "name": "khelogame"
+}

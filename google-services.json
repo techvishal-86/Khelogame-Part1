@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701518117255",
+    "firebase_url": "https://khelogame-25a78.firebaseio.com",
+    "project_id": "khelogame-25a78",
+    "storage_bucket": "khelogame-25a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701518117255:android:05c9d75ee19663f95cbb22",
+        "android_client_info": {
+          "package_name": "com.appdevpanda.khelogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701518117255-11ecaeuousn1e7n83mtsquvj99srsfld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-CbsVDLmX75L630IWGNWo6g91QynYCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701518117255-11ecaeuousn1e7n83mtsquvj99srsfld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
